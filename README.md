@@ -167,7 +167,7 @@ shell := ishell.New()
 ```
 
 **Screenshot:** <br>
-![screenshot](https://github.com/BadNameException/Counzl_Client/blob/justanotherbranch/Screenshot_Counzl_Client.png)
+![screenshot](https://github.com/OpenSourceProject-IS213/Counzl_Client/blob/master/Screenshot_Counzl_Client.png)
 
 ## user_dialer
 This file is one of the more complicated ones; since it includes key and certicate authentication. 
