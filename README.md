@@ -40,7 +40,7 @@ To make the links work I had to write the headings in lower case. The correct fu
 1. [login.go](#login) <br>
 * [Login](#Login)
 * [check password](#checkpassword)
-* [try again](#tryagain)
+* [tryAgain](#tryagain)
 2. [sign_up.go](#sign_up) <br>
 * [SignUp](#signup)
 3. [user_management.go](#user_management) <br>

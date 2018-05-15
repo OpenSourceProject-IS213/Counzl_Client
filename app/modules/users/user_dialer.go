@@ -67,6 +67,6 @@ func dialMUX(brukernavn string, conf *tls.Config) (string, error) {
 		log.Println(n, err)
 	}
 
-	println("Your user ID" + converter.Remove_0a(string(buf[:n])))
+	println("Your user ID: " + converter.Remove_0a(string(buf[:n])))
 	return converter.Remove_0a(string(buf[:n])), nil
 }
